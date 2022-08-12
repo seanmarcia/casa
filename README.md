@@ -1,8 +1,12 @@
 # CASA Project and Organization Overview
 
 
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-   <img src="https://img.shields.io/github/contributors/badges/shields?logo=github" /></a>
+<a href="https://github.com/rubyforgood/casa/graphs/contributors" alt="Contributors">
+   <img src="https://img.shields.io/github/contributors/rubyforgood/casa?logo=github" /></a>
+
+<a href="https://github.com/rubyforgood/casa/issues" alt="Contributors">
+   <img src="https://img.shields.io/github/issues-closed/rubyforgood/casa?logo=github" /></a>
+	/github/issues-closed/:user/:repo
 
 [![rspec](https://github.com/rubyforgood/casa/workflows/rspec/badge.svg)](https://github.com/rubyforgood/casa/actions/workflows/rspec.yml)
 [![erb lint](https://github.com/rubyforgood/casa/actions/workflows/erb_lint.yml/badge.svg)](https://github.com/rubyforgood/casa/actions/workflows/erb_lint.yml)
