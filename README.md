@@ -27,7 +27,7 @@
    <img src="https://img.shields.io/github/license/rubyforgood/casa?logo=github" /></a>
 
 <a href="https://github.com/badges/shields/pulse" alt="Activity">
-   <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa" /></a>
+   <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa?logo=github" /></a>
 
 
 </p>
