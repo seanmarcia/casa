@@ -24,14 +24,12 @@
    <img src="https://img.shields.io/github/issues-pr-closed-raw/rubyforgood/casa?logo=github" /></a>
 
 <a href="https://github.com/rubyforgood/casa" alt="LICENSE">
-   <img src="https://img.shields.io/github/license/rubyforgood/casa?logo=github" /></a>
+   <img src="https://badgen.net/github/license/rubyforgood/casa?icon=github&color=green" /></a>
 
 <a href="https://github.com/badges/shields/pulse" alt="Activity">
    <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa?logo=github" /></a>
 
-<a href="https://github.com/badges/shields/pulse" alt="Activity">
-   <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa?logo=github" /></a>
-   
+
 <a href="https://github.com/rubyforgood/casa/commits/main" alt="Last Commit">
    <img src="https://img.shields.io/github/last-commit/rubyforgood/casa?logo=github" /></a>   
 
