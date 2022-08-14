@@ -30,5 +30,9 @@
    <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa" /></a>
 </p>
 
+<a href="https://github.com/rubyforgood/casa" alt="Stars">
+   <img src="https://img.shields.io/github/stars/rubyforgood/casa?style=social" /></a>
+
+
 
 
