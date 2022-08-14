@@ -16,8 +16,13 @@
 <a href="https://github.com/rubyforgood/casa/search" alt="Languages">
    <img src="https://img.shields.io/github/languages/top/rubyforgood/casa?logo=github" /></a>
 
-<a href="https://github.com/rubyforgood/casa" alt="Languages">
+<a href="https://github.com/rubyforgood/casa" alt="Size">
    <img src="https://img.shields.io/github/repo-size/rubyforgood/casa?logo=github" /></a>
+
+<a href="https://github.com/rubyforgood/casa/pulls" alt="Pull Requests">
+   <img src="https://img.shields.io/github/issues-pr-closed-raw/rubyforgood/casa?logo=github" /></a>
+
+
 
 
 
