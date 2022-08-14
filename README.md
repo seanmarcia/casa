@@ -29,14 +29,20 @@
 <a href="https://github.com/badges/shields/pulse" alt="Activity">
    <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa" /></a>
 
+
+</p>
+
+<p align="center">
+
 <a href="https://github.com/rubyforgood/casa" alt="Stars">
    <img src="https://img.shields.io/github/stars/rubyforgood/casa?style=social" /></a>
 
-<a href="https://github.com/rubyforgood/casa" alt="Stars">
+<a href="https://github.com/rubyforgood/casa" alt="Forks">
    <img src="https://img.shields.io/github/forks/rubyforgood/casa?style=social" /></a>
-
    
-
-</p>
+<a href="https://github.com/rubyforgood/casa" alt="Watchers">
+   <img src="https://img.shields.io/github/watchers/rubyforgood/casa?style=social" /></a>
+   
+<p align="center">
 
 
