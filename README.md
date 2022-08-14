@@ -32,6 +32,10 @@
 <a href="https://github.com/rubyforgood/casa" alt="Stars">
    <img src="https://img.shields.io/github/stars/rubyforgood/casa?style=social" /></a>
 
+<a href="https://github.com/rubyforgood/casa" alt="Stars">
+   <img src="https://img.shields.io/github/forks/rubyforgood/casa?style=social" /></a>
+
+   
 
 </p>
 
