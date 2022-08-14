@@ -13,10 +13,10 @@
 <a href="https://github.com/rubyforgood/casa/search" alt="Languages">
    <img src="https://img.shields.io/github/languages/count/rubyforgood/casa?logo=github" /></a>
 
+<a href="https://github.com/rubyforgood/casa/search" alt="Languages">
+   <img src="https://img.shields.io/github/languages/top/rubyforgood/casa?logo=github" /></a>
 
 
-
-https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
