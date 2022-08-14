@@ -7,9 +7,11 @@
 <a href="https://github.com/rubyforgood/casa/issues" alt="Contributors">
    <img src="https://img.shields.io/github/issues-closed/rubyforgood/casa?logo=github" /></a>
 
+<a href="https://github.com/rubyforgood/casa/pulse" alt="Vulnerabilities">
+   <img src="https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github" /></a>
 
 
-
+https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
