@@ -29,6 +29,11 @@
 <a href="https://github.com/badges/shields/pulse" alt="Activity">
    <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa?logo=github" /></a>
 
+<a href="https://github.com/badges/shields/pulse" alt="Activity">
+   <img src="https://img.shields.io/github/commit-activity/m/rubyforgood/casa?logo=github" /></a>
+   
+<a href="https://github.com/rubyforgood/casa/commits/main" alt="Last Commit">
+   <img src="https://img.shields.io/github/last-commit/rubyforgood/casa?logo=github" /></a>   
 
 </p>
 
