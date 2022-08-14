@@ -35,6 +35,10 @@
 <a href="https://github.com/rubyforgood/casa/commits/main" alt="Last Commit">
    <img src="https://img.shields.io/github/last-commit/rubyforgood/casa?logo=github" /></a>   
 
+<a href="https://github.com/rubyforgood/casa/commits/main" alt="Total Commits">
+   <img src="https://badgen.net/github/commits/rubyforgood/casa/main?icon=github&color=green" /></a>   
+   
+   
 </p>
 
 <p align="center">
