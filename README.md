@@ -22,8 +22,8 @@
 <a href="https://github.com/rubyforgood/casa/pulls" alt="Pull Requests">
    <img src="https://img.shields.io/github/issues-pr-closed-raw/rubyforgood/casa?logo=github" /></a>
 
-
-
+<a href="https://github.com/rubyforgood/casa" alt="LICENSE">
+   <img src="https://img.shields.io/github/license/rubyforgood/casa?logo=github" /></a>
 
 
 <p align="center">
