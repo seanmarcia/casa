@@ -10,6 +10,11 @@
 <a href="https://github.com/rubyforgood/casa/pulse" alt="Vulnerabilities">
    <img src="https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github" /></a>
 
+<a href="https://github.com/rubyforgood/casa/search" alt="Languages">
+   <img src="https://img.shields.io/github/languages/count/rubyforgood/casa?logo=github" /></a>
+
+
+
 
 https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github
 
