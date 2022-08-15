@@ -17,10 +17,9 @@ Fill in Readme stuff.
 
 ---
 
-
-## GitHub Stats at a Glance
-
 <p align="center">
+<h2>GitHub Stats at a Glance</h2>
+
 <a href="https://github.com/rubyforgood/human-essentials/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/rubyforgood/human-essentials?logo=github" /></a>
 <a href="https://github.com/rubyforgood/human-essentials/issues" alt="Contributors"> <img src="https://img.shields.io/github/issues-closed/rubyforgood/human-essentials?logo=github" /></a>
 <a href="https://github.com/rubyforgood/human-essentials/pulse" alt="Vulnerabilities"><img src="https://img.shields.io/snyk/vulnerabilities/github/rubyforgood/human-essentials?logo=github" /></a>
