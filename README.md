@@ -17,8 +17,8 @@ Fill in Readme stuff.
 
 ---
 
-<p align="center">
-<h2>GitHub Stats at a Glance</h2>
+<p >
+<h2 align="center">GitHub Stats at a Glance</h2>
 
 <a href="https://github.com/rubyforgood/human-essentials/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/rubyforgood/human-essentials?logo=github" /></a>
 <a href="https://github.com/rubyforgood/human-essentials/issues" alt="Contributors"> <img src="https://img.shields.io/github/issues-closed/rubyforgood/human-essentials?logo=github" /></a>
